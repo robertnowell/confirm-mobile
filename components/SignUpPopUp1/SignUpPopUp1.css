@@ -1,0 +1,13 @@
+.sign-up-pop-up-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 16px;
+  box-shadow: 0px 0px 16px #e0affe;
+  display: flex;
+  flex-direction: column;
+  min-height: 354px;
+  overflow-x: hidden;
+  position: relative;
+  width: 309px;
+}
+

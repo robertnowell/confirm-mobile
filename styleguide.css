@@ -1,0 +1,12 @@
+:root { 
+  --eerie-black: #1e1e1e;
+  --medium-purple: #8d56f6;
+  --pink-swan: #b9b9b9;
+  --white: #ffffff;
+ 
+  --font-size-s2: 12px;
+  --font-size-xxs: 8px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
